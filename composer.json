@@ -18,5 +18,9 @@
         "doctrine/doctrine-bundle": "*",
         "toa/twitter-bootstrap-bundle": "*"
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": { "Skonsoft\\Bundle\\CvEditorBundle": "" }
+    },
+    "target-dir": "Skonsoft/CvEditorBundle"
 }
