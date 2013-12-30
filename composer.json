@@ -20,7 +20,7 @@
     },
     "minimum-stability": "dev",
     "autoload": {
-        "psr-0": { "Skonsoft\\Bundle\\CvEditorBundle": "" }
+        "psr-0": { "Skonsoft\\CvEditorBundle": "" }
     },
     "target-dir": "Skonsoft/CvEditorBundle"
 }
